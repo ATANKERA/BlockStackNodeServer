@@ -37,14 +37,14 @@ Install the code by cloning it.
  $ git clone https://github.com/ATANKERA/BlockStackNodeServer
 Change to directory to the root of the code.
 
- $ cd blockstack-todos
-If you downloaded the zip file, the contents unzip into a blockstack-todos-master directory.
+ $ cd BlockStackNodeServer
+If you downloaded the zip file, the contents unzip into a BlockStackNodeServer-master directory.
 
 Use npm to install the dependencies.
 
  $ npm install
  
- 
+ //This will take time
  
  
  ------
